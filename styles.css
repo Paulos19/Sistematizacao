@@ -62,7 +62,7 @@ header::after {
 
 .logo {
     cursor: pointer;
-    width: 200px;
+    width: 150px;
 }
 
 header a {
@@ -83,7 +83,7 @@ header a {
 }
 
 .nav__links li a:hover {
-    color: #8B0000;
+    color: #7001FD;
 }
 
 .icons {
@@ -135,7 +135,7 @@ header a {
 .carousel .list .item .content .author {
     font-weight: bold;
     letter-spacing: 10px;
-    color: #8B0000;
+    color: #7001FD;
 }
 
 .carousel .list .item .content .title,
@@ -146,7 +146,7 @@ header a {
 }
 
 .carousel .list .item .content .topic {
-    color: #8B0000;
+    color: #7001FD;
 }
 
 .carousel .list .item .content .buttons {
@@ -173,13 +173,13 @@ header a {
 }
 
 .carousel .list .item .content button:hover {
-    background-color: #8B0000;
+    background-color: #7001FD;
     color: #eee;
 }
 
 .carousel .list .item .content button:nth-child(2):hover {
     background-color: transparent;
-    color: #8B0000;
+    color: #7001FD;
 }
 
 .thumbnail {
@@ -381,7 +381,7 @@ header a {
 .time {
     width: 0%;
     height: 5px;
-    background-color: #8B0000;
+    background-color: #7001FD;
     position: absolute;
     z-index: 100;
     top: 0;
